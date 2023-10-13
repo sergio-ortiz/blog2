@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const posts = await Astro.glob('../pages/posts/*.md');
+---
+<BaseLayout>
+	<ul>
+		{posts.map((post) => <li><a href={post.url}>{post.file.match(/\w+(?=.md)/)}</a></li>)}
+	</ul>			
+</BaseLayout>
