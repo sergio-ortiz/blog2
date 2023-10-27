@@ -1,19 +1,13 @@
 ---
 layout: '../../layouts/BaseLayout.astro'
 ---
-# DJ set: EDM "Pop" -> New Wave Urbano
+# Fairinheight
 
-1. Major Lazer
-2. Diplo
-3. Dillon Francis
-4. Skrillex
-5. Jack U
-6. Marshmello
----
-# colorful wub selections
-7. Liquid Stranger
-8. LSDREAM
-9. Griz
-10. Manic Focus
-11. Bassnectar
-12. Dirt Monkey
+| meta                     | extras                  |
+| :---                     | :---                    |
+| Flume "chillwave vibes"  | Flux Pavilion "Dubstep" |
+| Hucci "Trap vibes"       | (Jack U) Skrillex       |
+| Major Lazer "Carribean EDM vibes"  | (Old) Liquid Stranger
+| EDM Twerk/Jersey Club (Diplo) | Dillon Francis  |
+| (New) Skrillex & fred again.. "Dance Music"  | Zeds Dead "EDM"  |
+| New Wave Urbano (Bad Bunny, etc.)  | Marshmello  |
