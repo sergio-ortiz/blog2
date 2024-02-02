@@ -1,3 +1,6 @@
+---
+layout: '../../layouts/BaseLayout.astro'
+---
 * [ ] coffee + gnc mega men sport
 * [ ] wash your face
 * [ ] apply lotion
