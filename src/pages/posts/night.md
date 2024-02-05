@@ -1,6 +1,7 @@
 ---
-layout: '../../layouts/BaseLayout.astro'
+layout: "../../layouts/BaseLayout.astro"
 ---
+
 - [ ] mellys
 - [ ] prepare dinner
 - [ ] shower

@@ -1,9 +1,10 @@
 ---
-layout: '../../layouts/BaseLayout.astro'
+layout: "../../layouts/BaseLayout.astro"
 ---
+
 # build Drupal projects, host them on AWS, and Secure them
 
-I started my IT/Developer Journey in 2018/2019. 
+I started my IT/Developer Journey in 2018/2019.
 I was asked to learn Drupal and in order to learn Drupal the official site stated that I had to have prerequisite knowledge.
 The prerequisite knowlege goes as follows in this order:
 
@@ -23,34 +24,31 @@ After I earn freeCodeCamp's Front End Developer Libraries certification, I will 
 Then I will go through the Reputable Jon Duckett's PHP & MySQL: Server-Side Web Development Book. After this maybe build a toy project or two I will Move on to Drupal development.
 I have a Raspberry Pi 3b+ and Rocky Linux, which is a bug for bug clone of RHEL without all the trademarking, has an installation image compatible with my Pi. I should go through an installation and then start learning.
 
-
-
 # From Open Source Web Developer to Security Researcher
 
 1. Web Developer
-    * Linux
-        * Debian/Arch
-        * VirtualBox
-        * RHEL/Rocky Linux
-        * AWS/Cloud
-    * HTML & CSS
-    * JavaScript
-    * BootStrap, Sass, jQuery
-        * React, Redux
-        * node, npm, Express, MongoDB
-        * Next.js & Prisma
-    * PHP & MySQL
-        * WordPress
-        * Laravel
-    * Drupal
+   - Linux
+     - Debian/Arch
+     - VirtualBox
+     - RHEL/Rocky Linux
+     - AWS/Cloud
+   - HTML & CSS
+   - JavaScript
+   - BootStrap, Sass, jQuery
+     - React, Redux
+     - node, npm, Express, MongoDB
+     - Next.js & Prisma
+   - PHP & MySQL
+     - WordPress
+     - Laravel
+   - Drupal
 2. Cyber Security
-    * Black Arch + i3
-    * HackTheBox/TryHackMe
-    * OWASP
-    * Bug Bounty Hunter
-    * CompTIA Trifecta
-    * OSCP
-
+   - Black Arch + i3
+   - HackTheBox/TryHackMe
+   - OWASP
+   - Bug Bounty Hunter
+   - CompTIA Trifecta
+   - OSCP
 
 # The Path forward
 
@@ -60,14 +58,18 @@ I have a Raspberry Pi 3b+ and Rocky Linux, which is a bug for bug clone of RHEL 
 4. Relational Databases (Beta) certification
 5. Back End Development certification
 6. Quality and Assurance certification
+
 ---
+
 1. HTMl & CSS
 2. JavaScript
 3. Bootstrap, Sass, jQuery, React, Redux
 4. Linux, Bash, Git, Postgres, SQL, Visual Studio Code, Docker, GitHub
 5. npm, node, express, mongodb, mongoose
 6. auth - Passport, testing - chai, realtime - socket.io
+
 ---
+
 1. tervillc.com
 2. terminatevirus.com
 3. bioethx.org
@@ -83,14 +85,18 @@ I have a Raspberry Pi 3b+ and Rocky Linux, which is a bug for bug clone of RHEL 
 13. bioethxcafe app
 14. bioethx express app
 15. Aquas/Clarsen consultatiuons e-commerce site
+
 ---
+
 1. MERN Stack
 2. Next.js + Postgres + Prisma/drizzle
 3. PHP & MySQl
 4. WordPress
 5. Laravel
 6. HERB Stack
+
 ---
+
 1. React 18+
 2. Next.js 13+
 3. Tailwind CSS

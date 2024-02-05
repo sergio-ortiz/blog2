@@ -1,6 +1,7 @@
 ---
-layout: '../../layouts/BaseLayout.astro'
+layout: "../../layouts/BaseLayout.astro"
 ---
+
 1. ~~VirtualBox on EndeavourOS~~
 2. ~~Arch Linux on VirtualBox using the official ArchInstall script~~
 3. ~~install Arch Linux on VirtualBox following The Arch Wiki install guide~~

@@ -1,6 +1,7 @@
 ---
-layout: '../../layouts/BaseLayout.astro'
+layout: "../../layouts/BaseLayout.astro"
 ---
+
 # OpSec for Security Research freedom
 
 1. ln, gnu-stow or, git-bare Arch dotfiles and Backup tails KeyPassXC db
