@@ -1,6 +1,5 @@
 ---
 import "@picocss/pico/css/pico.classless.min.css"
-
 ---
 <html lang="en">
 	<head>
@@ -15,10 +14,12 @@ import "@picocss/pico/css/pico.classless.min.css"
             <slot />
 		</main>
 	</body>
-<script>
+
+	<script>
 	const boxes = document.querySelectorAll('input[type="checkbox"]');
+
 	for (const box of boxes) {
 		box.removeAttribute('disabled');
 	}
-</script>
+	</script>
 </html>

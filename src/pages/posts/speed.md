@@ -14,7 +14,7 @@ Things that have worked for you:
 - sleep early
 - daily exercise
 - see people
-- Meditation + Brahmacharya + Prayer
+- Meditation + Brahmacharya + Meditation + Prayer
 - Pomodoro Technique
 - Do/focus on one thing at a time
 - Do not consume other media besides listening to music, listening to talks is ok

@@ -2,7 +2,7 @@
 layout: "../../layouts/BaseLayout.astro"
 ---
 
-- [ ] mellys
+- [ ] mellys + L-theanine
 - [ ] prepare dinner
 - [ ] shower
 - [ ] prepare food for work
@@ -10,4 +10,4 @@ layout: "../../layouts/BaseLayout.astro"
 - [ ] wash dishes and pack food for work
 - [ ] brush teeth
 - [ ] pack toothbrush and backpack for work
-- [ ] get clothes read for work: socks, underwear, belt, shirt, pants
+- [ ] get clothes ready for work: socks, underwear, belt, shirt, pants

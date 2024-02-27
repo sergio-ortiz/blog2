@@ -26,14 +26,14 @@ layout: "../../layouts/BaseLayout.astro"
 22. Drink more water
 23. Buy nd start jump-roping, get that cardio up ;), get a yoga mat and do abs with medicine balls as well like patrick bateman from american psycho
 24. clean out condo + minimalism "Marie Kondo method", get boxes from garage nd fill them with all the clothes u dont wear
-25. buy all black fabletics drip for work
+25. ~~buy all black fabletics drip for work~~
 26. sleep before midnight
-27. get a bunch of fabletics drip and pause your subscription for 3 months
+27. ~~get a bunch of fabletics drip and pause your subscription for 3 months~~
 28. clean and rent out garage
 29. version control your dotfiles with ln, git bare, gnu stow?
 30. delete youtube, maybe youtube from the command line? "anonymously"
 31. Meditation + Brahmacharya + prayer
 32. learn bash and start automating.
 33. build cli's in node
-34. Install Mixxx and use youtube-dl to download playlists from soundcloud and practice DJing
+34. ~~Install Mixxx and use youtube-dl to download playlists from soundcloud and practice DJing~~
 35. Get Tio Arturo's recomended certs
