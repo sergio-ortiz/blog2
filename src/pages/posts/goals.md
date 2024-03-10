@@ -2,6 +2,16 @@
 layout: "../../layouts/BaseLayout.astro"
 ---
 
+1. Secure private email via pgp: practice gpg on command line, mozilla thunderbird, mailvelope
+2. Delete clothes u dont use. research where to donate.
+3. version control your dotfiles with ln, git bare, gnu stow?
+4. delete youtube, maybe youtube from the command line? "anonymously" not hidden to isp but identity hidden to isps's and youtube. yt-dlp. terminal rss readers for tech news.
+5. Meditation + Brahmacharya + prayer + mass
+6. migrate websites to astro
+7. use bun with in-memory sqlite database, builtin sqlite driver, builtin http server, builtin jsx, built in password verification and hashing, and hateoas
+8. summer bod - 12.3.30 multiple time a day every day leg ups at home weighted crunches at the gym, yoga mat and do abs with medicine balls as well like patrick bateman from american psycho
+---
+# done
 1. ~~VirtualBox on EndeavourOS~~
 2. ~~Arch Linux on VirtualBox using the official ArchInstall script~~
 3. ~~install Arch Linux on VirtualBox following The Arch Wiki install guide~~
@@ -23,17 +33,8 @@ layout: "../../layouts/BaseLayout.astro"
 19. ~~musi - music streaming like alternative for android~~
 20. ~~install VirtualBox on Arch Linux~~
 21. ~~Become a PHP & MySQL dev~~
-22. Drink more water
-23. Buy nd start jump-roping, get that cardio up ;), get a yoga mat and do abs with medicine balls as well like patrick bateman from american psycho
-24. clean out condo + minimalism "Marie Kondo method", get boxes from garage nd fill them with all the clothes u dont wear
-25. ~~buy all black fabletics drip for work~~
-26. sleep before midnight
-27. ~~get a bunch of fabletics drip and pause your subscription for 3 months~~
-28. clean and rent out garage
-29. version control your dotfiles with ln, git bare, gnu stow?
-30. delete youtube, maybe youtube from the command line? "anonymously"
-31. Meditation + Brahmacharya + prayer
-32. learn bash and start automating.
-33. build cli's in node
-34. ~~Install Mixxx and use youtube-dl to download playlists from soundcloud and practice DJing~~
-35. Get Tio Arturo's recomended certs
+22. ~~Drink more water~~
+23. ~~buy all black fabletics drip for work~~
+24. ~~sleep before midnight-~~
+25. ~~get a bunch of fabletics drip and pause your subscription for 3 months~~
+26. ~~Install Mixxx and use youtube-dl to download playlists from soundcloud and practice DJing~~

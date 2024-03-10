@@ -93,7 +93,7 @@ I have a Raspberry Pi 3b+ and Rocky Linux, which is a bug for bug clone of RHEL 
 3. PHP & MySQl
 4. WordPress
 5. Laravel
-6. HERB Stack
+6. HATEOAS + DaisyUI ~ TailwindCSS
 
 ---
 
