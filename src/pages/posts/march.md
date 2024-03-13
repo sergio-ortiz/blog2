@@ -1,3 +1,7 @@
+---
+layout: "../../layouts/BaseLayout.astro"
+---
+
 1. fork terventory app on AquasInc. Github
 2. Research E2EE, gpg, kleopatra, gpg4win, mozilla thunderbird, mailvelope, signal messenger.
 3. mix and release rumba san valentin
