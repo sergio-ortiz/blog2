@@ -6,7 +6,7 @@ layout: "../../layouts/BaseLayout.astro"
 |  :---:   |          :----:                           | 
 | 7:30 am  | [morning routine](/posts/morning) ~30mins |
 | 8:00 am  | leave for work ~30mins                    |
-| 8:30 am  | 8hr shift                                 |
+| 8:30 am  | 8hr shift [todos](/posts/todos)                                 |
 | 4:30 pm  | drive to hanover ~1hr                     |
 | 5:30 pm  | janitorial work ~3hrs                     |
 | 8:30 pm  | drive home ~1hr                           |
