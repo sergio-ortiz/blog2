@@ -2,16 +2,12 @@
 layout: "../../layouts/BaseLayout.astro"
 ---
 
-- [x] ~~rust install and hello world compilation~~
-- [x] ~~install go and try compilation of hello world program~~
-- [x] pay little brother
-- [ ] pay gas, electricity, hoa, check bank balance
-- [ ] call sergio ask about trying speakers out this saturday
-- [x] ~~try to get dads email on mozilla thunderbird on his windows 11 machine~~
-- [x] ~~see if dad can add my public key~~
+- [x] mailvelope setup in firefox and then test out end to end encryption from thunderbird to firefox with mailvelope and visce versa
+- [x] call sergio ask about trying speakers out this saturday
 - [ ] compile, salsa, merengue, classic reggaeton, cumbia, vallenato, pop latino, bachata, modern urbano, pitbull, bad bunny, club classiscs, latin house, new skrillex, fred again.. playlits
 - [ ] resaerch how to get treated for adhd w/ prescription
-- [ ] go to court for speeding tomorrow
-- [ ] Happy Birthday sylvanna tomorrow
+- [x] go to court for speeding 
+- [x] Happy Birthday sylvanna 
+- [ ] read thunderbird's intro to E2EE
 
 **march [todos](/posts/march)**
