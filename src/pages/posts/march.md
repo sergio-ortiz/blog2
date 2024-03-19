@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BaseLayout.astro"
+layout: "../../layouts/PostLayout.astro"
 ---
 
 1. fork terventory app on AquasInc. Github

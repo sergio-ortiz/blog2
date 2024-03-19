@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BaseLayout.astro"
+layout: "../../layouts/PostLayout.astro"
 ---
 
 - [ ] coffee + gnc mega men sport + ash 

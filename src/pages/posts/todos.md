@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/BaseLayout.astro"
+layout: "../../layouts/PostLayout.astro"
 ---
 
 - [ ] resaerch how to get treated for adhd w/ prescription
