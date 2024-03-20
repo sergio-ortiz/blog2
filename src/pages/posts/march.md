@@ -2,6 +2,8 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
+### March
+
 1. fork terventory app on AquasInc. Github
 2. Research E2EE, gpg, kleopatra, gpg4win, mozilla thunderbird, mailvelope, signal messenger.
 3. mix and release rumba san valentin
@@ -9,6 +11,12 @@ layout: "../../layouts/PostLayout.astro"
 5. It is important to use bun for in house projects. git~linus + microsoft github,  docker, bun, hono, hateoas, esnext. bun handles component based html templates and microsoft typescript out of the box, it comes with http server, sqlite database and driver, hash passwords and verify password hashes. On top of that it is a runtime, module bundler, package manager and, test runner all in one.
 6. push last 2 months of mortgage to the end
 7. Migrate tervi to astro
+- [ ] learn github project management + agile/scrum
+- [ ] todo app bun: server, :memory, sql, jsx, hash, verify
+- [ ] migrate tervi to astro
+- [ ] dualboot windows for serato
+- [ ] install new EndeavourOS shipping w/ kde instead of xfce
+- [ ] deploy docker for free based on fireship
 ---
 # done
 7. ~~get half zelled for djing quince in april~~

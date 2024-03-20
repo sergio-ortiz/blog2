@@ -23,6 +23,7 @@ layout: "../../layouts/PostLayout.astro"
 
 ### D
 
+- For most apps PicoCSS seems to do the trick, I think tailwind is good for refactoring but for quick mock ups u might not need it.
 - DaisyUI because it brings bootstrap like component classes on top of tailwind which brings back end devs the famialarity of working with bootstrap but instead of being limmited to custom sass and classes you have all the tweakability of tailwind
 
 
