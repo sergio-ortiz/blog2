@@ -2,34 +2,44 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-# folders searto?
+# usb quince colombiana
+
+que es la hora loca?
+
+1. vallenato - Carlos Vives, etc.
+2. salsa - colombiana, etc.
+3. pop latino - juanes, bacilos, cabas, fanny lu, fonseca, shakira, etc.
+4. cumbia - sonora dinamita, ke personajes etc.
+5. merengue - juan luis guerra, merengue electonico, etc.
+6. reggaeton classico - daddy yankee, don omar, rakim y ken y, hector y tito, wisin y yandel
+7. bachata - chayene, juan luis guerra, aventura, prince royce, alexandra y monchi
+10. salsa choque - ras tas tas, chocQuibTown
+11. j balvin, maluma, karol g, manuel turizo, feid, ryan castro, blessd
+12. bad bunny - albums, singles, features
+13. latin edm - bzrp, tiesto, masmelo, hugel, etc.
+14. urbano - chencho, dembow, young miko
+---
+extras
+15. edm - deorro, gta, dillon francis, new skrillex, moombahton, pickle, gatitomiau, duke & jones, fred again.., major lazer
+
+
+
+# others
 
 1. old deadmau5
 2. old afrojack
-3. Fred again..
-4. New Skrillex
-5. dance/house: Duke & Jones, Pickle
-6. Techno: Gatitomiau
-7. GTA
-8. Deorro
-9. Dillon Francis
-10. bzrp/latin pop house
-11. modern urbano: reggaeton, trap, dembow
 12. pitbull
-13. classic reggaeton
 14. diplo
 15. Jack U   
-16. Major Lazer
 17. Marshmello
 18. EDM twerk/Jersey club
-19. salsa, merengue, cumbia, pop latino, mexican, bachata, vallenato
 19. Skrillex
 20. david guetta
 21. calvin harris
 22. 90s house
 
 ---
-# Fairinheight
+# wubs
 
 1. Fred Again..
 2. New Skrillex

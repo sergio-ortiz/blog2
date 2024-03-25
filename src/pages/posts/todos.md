@@ -2,12 +2,32 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### 3/21/2024
+### Tuesday 3/26/2024
+This week is about auth: bun, tails 6 "dnmb", opsec, gpg, password managers "keyPassXC", signal
 
-- [ ] bun auth app, pico css "classless", htmz, no hono yet, no htmx yet
-- [ ] research OpSec with password managers KeyPassXC? check up on dnmb.
+- [ ] download obsidian
+- [ ] boot into tails usb update and clone usb and upgrade to tails 6, check up on dnmb.
 - [ ] research gpg sign and verify, pgp email
-- [ ] compile playlists: salsa, merengue, classic reggaeton, cumbia, vallenato, pop latino, bachata, modern urbano, pitbull, bad bunny, club classiscs, latin house, fred again.. 
-- [ ] take new neovim tutorial and lua courses
-- [ ] I am interested in using obsidian or an alternative foss solution maybe with neovim.
+- [ ] research OpSec with password managers KeyPassXC?
+- [ ] Fill out I-9
+- [ ] pay hoa payment plan with updated assesment prices for this year from previous months
+- [ ] bun auth app, pico css "classless", htmz, no hono yet, no htmx yet, in-mem sqlite and sqlite driver
+- [ ] compile playlists: 
+    - j balvin
+    - bad bunny
+    - karol G + maluma + shakira
+    - feid + blessd + Cris MJ
+    - young miko + bzrp
+    - ozuna
+    - pitbull
+    - club classiscs
+    - salsa
+    - bachata
+    - pop latino "colombiano"
+    - cumbia
+    - merengue
+    - vallenato "carlos vives"
+    - classic reggaeton
+        - father daughter dance
+        - la hora loca
 - [ ] march [todos](/posts/march)
