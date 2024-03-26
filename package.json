@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@picocss/pico": "^1.5.10",
+    "@picocss/pico": "^2.0.6",
     "astro": "^3.3.0"
   },
   "devDependencies": {
