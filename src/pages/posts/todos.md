@@ -5,7 +5,7 @@ layout: "../../layouts/PostLayout.astro"
 ### Tuesday 3/26/2024
 This week is about auth: bun, tails 6 "dnmb", opsec, gpg, password managers "keyPassXC", signal
 
-- [ ] download obsidian
+- [X] ~~download obsidian~~
 - [ ] boot into tails usb update and clone usb and upgrade to tails 6, check up on dnmb.
 - [ ] research gpg sign and verify, pgp email
 - [ ] research OpSec with password managers KeyPassXC?
