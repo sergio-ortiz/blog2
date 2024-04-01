@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### March
+### April
 
 #### Hacker todos
 
@@ -13,6 +13,12 @@ layout: "../../layouts/PostLayout.astro"
 5. Migrate Next.js sites to astro and, build websites w/ astro and DaisyUI
 5. build HATEOAS apps w/ bun + Pico CSS in docker compose and deploy w/ either fly.io or aws, based on fireship
 7. Learn Github Project Management and apply to all projects and apply to agile/scrum
+
+- [ ] boot into tails usb update and clone usb and upgrade to tails 6, check up on dnmb.
+- [ ] research gpg sign and verify, pgp email
+- [ ] research OpSec with password managers KeyPassXC?
+- [ ] Fill out I-9
+- [ ] bun auth app, pico css "classless", htmz, no hono yet, no htmx yet, in-mem sqlite and sqlite driver
 
 to Recap: teach dad basic OpSec "PGP & Password Managers", Dualboot windows 10 for serato and lmde 6 w/ nix, build websites with Astro + DaisyUI and Build apps with Bun "HATEOAS" + Pico CSS, Develop in Docker containers and Project Management on Github
 

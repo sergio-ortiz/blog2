@@ -7,6 +7,7 @@ layout: "../../layouts/PostLayout.astro"
 - [ ] apply lotion
 - [ ] put on deoderant
 - [ ] put on work clothes
+- [ ] put on cologne
 - [ ] put on hair product
 - [ ] grab lunch, shaker, backpack and, coat
 - [ ] get in your car and leave for work
