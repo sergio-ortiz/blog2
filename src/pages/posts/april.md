@@ -32,3 +32,9 @@ to Recap: teach dad basic OpSec "PGP & Password Managers", Dualboot windows 10 f
 1. ~~get half zelled for djing quince in april~~
 2. ~~I want to dockerize bun dev environments with dockerfile and docker-compose.yml with source code in version control so that we can have reproducible dev environments and production environments. You can install docker anywhere. run it locally in development and on the cloud in production. this way new devs or collaborators dont have to set up their system for developing on bun, with the added bonus of being able to run the commited project files on any docker platform.~~
 3. ~~begin using obsidian~~
+
+### quince playlist extras
+- [ ] young miko + bzrp
+- [ ] ozuna
+- [ ] pitbull
+- [ ] club classiscs
