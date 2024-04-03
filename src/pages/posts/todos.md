@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### Monday 4/1/2024
+### Wednesday 4/3/2024
 
 - [x] ~~pay mortgage~~
 - [ ] compile playlists: 
@@ -12,13 +12,13 @@ layout: "../../layouts/PostLayout.astro"
     - [x] ~~juanes~~
     - [x] ~~mana~~
     - [x] ~~shakira~~
-    - [ ] merengue
-    - [ ] cumbia
+    - [ ] karol G + maluma + Manuel Turizo
     - [ ] j balvin
     - [ ] bad bunny
-    - [ ] karol G + maluma + shakira
-    - [ ] bachata
     - [ ] feid + blessd + Cris MJ
+    - [ ] merengue
+    - [ ] cumbia
+    - [ ] bachata
     - [ ] classic reggaeton
         - [ ] father daughter dance
         - [ ] la hora loca
