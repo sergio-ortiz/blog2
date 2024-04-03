@@ -7,9 +7,12 @@ layout: "../../layouts/PostLayout.astro"
 - [x] ~~pay mortgage~~
 - [ ] compile playlists: 
     - [x] ~~salsa~~
+    - [x] ~~carlos vives~~
+    - [x] ~~pop latino "colombiano": cabas, bacilos, fonseca, fanny lu, camilo~~
+    - [x] ~~juanes~~
+    - [x] ~~mana~~
+    - [x] ~~shakira~~
     - [ ] merengue
-    - [ ] vallenato "carlos vives"
-    - [ ] pop latino "colombiano"
     - [ ] cumbia
     - [ ] j balvin
     - [ ] bad bunny
@@ -19,4 +22,5 @@ layout: "../../layouts/PostLayout.astro"
     - [ ] classic reggaeton
         - [ ] father daughter dance
         - [ ] la hora loca
+        - [ ] presentaion songs
 - [ ] April [todos](/posts/april)
