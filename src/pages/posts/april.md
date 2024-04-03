@@ -34,7 +34,6 @@ to Recap: teach dad basic OpSec "PGP & Password Managers", Dualboot windows 10 f
 3. ~~begin using obsidian~~
 
 ### quince playlist extras
-- [ ] young miko + bzrp
 - [ ] ozuna
 - [ ] pitbull
 - [ ] club classiscs
