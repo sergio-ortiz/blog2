@@ -47,6 +47,6 @@ Lets start at the beginning, the 90s: html, css, js. These are non-negotiables i
 - express: the godfather of minimal/micro web-frameworks/no bloat/no batteries included. api endpoints, request response
 - react: declaritive ui dev/reactivity with html in js like syntax "jsx" components: for better or worse react and jsx are now the standard.
 - React sucks to use, htmx forget about dealing with js dom manipulation and ajax.
-- also react is moving towards into 
+- also react is moving towards SSR 
 - Goodbye node express, hello bun and hono. both improve the dev experience plus performance compared to node and express, also better docs.
 - goodbye css, sass, and bootstrap. hello tailwind and DaisyUI. tho theres Pico CSS customizable w/ sass.
