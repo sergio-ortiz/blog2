@@ -2,8 +2,11 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### Tuesday 4/10/2024 
-from now till the end of the month you have to make your remote work worth while
+### Thursday 4/11/2024 
+from now till the end of the month you have to make your remote work worth while,
+meaning I have to make my efforts in modernizing bioethx.org recognized and desired.
+
+Also, I ❤️  J Balvin! 🇨🇴
 
 1. [ ] read up on changes to astro web framework
 2. [ ] learn agile "manifesto"

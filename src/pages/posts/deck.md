@@ -2,6 +2,22 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
+# refined
+1. salsa 🇨🇴
+2. cumbia 🇨🇴
+3. Merengue
+4. Bachata
+5. vellanato
+6. carlos vives
+7. juanes
+8. pop latino 🇨🇴
+9. J Balvin
+10. Maluma, Sebastian Yatra, Manuel Turizo
+11. Karol G
+12. feid
+13. Bad Bunny
+14. Latin Tech House
+
 # usb quince colombiana
 
 que es la hora loca?
