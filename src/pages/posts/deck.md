@@ -7,7 +7,7 @@ layout: "../../layouts/PostLayout.astro"
 2. cumbia 🇨🇴
 3. Merengue
 4. Bachata
-5. vellanato
+5. vallenato
 6. carlos vives
 7. juanes
 8. pop latino 🇨🇴
@@ -19,8 +19,6 @@ layout: "../../layouts/PostLayout.astro"
 14. Latin Tech House
 
 # usb quince colombiana
-
-que es la hora loca?
 
 1. vallenato - Carlos Vives, etc.
 2. salsa - colombiana, etc.
