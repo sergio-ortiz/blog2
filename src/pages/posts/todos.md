@@ -12,7 +12,7 @@ Also, I ❤️  J Balvin! 🇨🇴
 2. [ ] learn agile "manifesto"
 3. [ ] learn project management on github
 4. [ ] Migrate Next.js sites to astro
-5. [ ] listen to news feid
+5. [ ] listen to new feid
 
 #### April [todos](/posts/april)
 
