@@ -24,3 +24,11 @@ Feid, the new man carrying the reggaeton scene in Colombian forward, that in my 
 
 #### Exhibit D
 Shakira's latest 2024 album has had a lot of dance beats but one in my book one track is fully latin house and the production is a collaborative effort between Bizzarap and Tiësto. the song is actually really good.
+
+#### Exhibit E
+skrillex back in 2015 2016 said that marshmello was the new face of edm and brought him on. This held true, marshmello has even produced a whole album featuring spanish artists only. I have a playlist featuring more than 20 marshmello latin songs. five years later skrillex has been bringing the indutry more traditional dance and house rythms and hes done it again this time and introduced the new leader in the electronic dance music space and brought in Fred Again.., and so far its been true. 
+It's been a while since the prince of reggaeton has released an album due to covid, the major pimp slap bad bunny gave the industry in 2022, and him having a baby. the boy from medellin will release a new colab album this year w/ Ed sheeran hopefully for the summer to pair with the release his new jordans the Rio 3s but I digress.
+It is produced by Fred Again..
+Fred Again's sound is very beautiful paying homage to the love of 90s house and synths of classical trance and bringing in trap artists on the vocals.
+
+

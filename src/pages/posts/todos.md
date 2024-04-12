@@ -14,6 +14,7 @@ Also, I ❤️  J Balvin! 🇨🇴
 4. [ ] Migrate Next.js sites to astro
 5. [ ] listen to new feid
 6. [ ] set up contactless pay on android
+7. [ ] go through J Balvin discography
 
 #### April [todos](/posts/april)
 
