@@ -1,3 +1,7 @@
+---
+layout: "../../layouts/PostLayout.astro"
+---
+
 I have a lot of pride in my Colombian heritage. Arepas, cafe, la belleza, la cultura, more specifically the Music. Vallenato, cumbia, salsa, pop, juanes, carlos vives, shakira, bacilos, fonseca, cabas, fanny lu, champeta, reggaeton, j balvin, maluma, sebastian yatra, manuel turizo, karol g, feid. 
 
 My dad is from Ecuador but he is the one that really taught me about club music as young as 5 years of age. All the house/techno/electronic and hip hop from the 90s to early 2000s.
