@@ -17,14 +17,13 @@ Also, I love J Balvin! 🇨🇴
 4. [ ] Migrate Next.js sites to astro
 5. [ ] listen to new feid
 6. [ ] set up contactless pay on android
-7. [ ] listen to el cantante by Hector Lavoe
+7. [ ] business meeting check in w/ details for saturday 
 8. [ ] listen to tainy - data
 9. [ ] move mortgage back
 10. [ ] listen to new future
 11. [ ] listen to new rauw
 12. [ ] listen to new young miko
 13. [ ] apply to wheaton la fitness via Mauricio
-14. [ ] business meeting check in w/ details for saturday 
 
 #### April [todos](/posts/april)
 
@@ -36,4 +35,3 @@ Also, I love J Balvin! 🇨🇴
 4. [x] ~~go through J Balvin wikipedia~~
 5. [x] ~~go through J Balvin discography~~
 6. [x] ~~taxes~~
-7. [x] ~~listen to Jose~~
