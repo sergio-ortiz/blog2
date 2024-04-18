@@ -31,4 +31,23 @@ It's been a while since the prince of reggaeton has released an album due to cov
 It is produced by Fred Again..
 Fred Again's sound is very beautiful paying homage to the love of 90s house and synths of classical trance and bringing in trap artists on the vocals.
 
+---
 
+I want to be drippy.
+slim fit pants.
+black t-shirts.
+white t-shirts.
+Pioneer DJ Headphones.
+Pioneer DJ turntable.
+Pioneer DJ moniter speakers.
+Serato software.
+House Music production.
+Linux audio prodcution.
+Air forces
+dunks
+yeezy's
+foamposites
+jordans
+watch
+glasses
+chain
