@@ -18,3 +18,7 @@ layout: "../../layouts/PostLayout.astro"
 2. mix and release rumba san valentin
 3. Research how to get adhd prescription
 4. Fill out I-9
+11. [ ] listen to new rauw
+12. [ ] listen to new young miko
+5. [ ] listen to new feid
+9. [ ] move mortgage back

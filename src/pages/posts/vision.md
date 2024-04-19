@@ -37,21 +37,26 @@ I want to be drippy.
 
 1. first things first get your money up. make more money per hour of your time.
 2. get fitted triple white air forces.
-3. sun glasses for pollen and sun, I drive alot eith the sun roof
+3. sun glasses for pollen and sun, I drive alot with the sun roof
 4. I feel like yeezy's are only going to go up, so I would invest in those: slides, boost 350 v2s, foam runners.
 5. try the slim pants from falbletics: only's and the highs/chinos, I got hella credits & points, try the cadence shorts with the liner for the combos, or just get packs of 24/7 tees black/white.
 6. for all black shoes foamposites look drippy in my opinion, second to all black air forces which are more affordable and most likely to pass requirements for work probably would want a shiesty and a glizzy tho, yeezy boosts are good option for all black shoe but they are more like running shoes than basketball shoes.
-7. I'll be training for a glizzy one day, maybe there is a membership like a gym I will quit one life membership to make ends meet and double down on planet or even better gym on the job. along with the glasses and a shiesty for winter, I could get all black air forces. they are the most affordable of the all black options. but I will only use them for work.
+7. I'll be training for a glizzy one day, maybe there is a membership like a gym I will quit onelife membership to make ends meet and double down on planet or even better work at a gym. along with the glasses and a shiesty for winter, I could get all black air forces. they are the most affordable of the all black options. but I will only use them for work.
 8. maybe for hiking the wheat/flax air force might be a better choice. plus they are really drippy.
 9. now for crazy drip I could get the triple red air forces.
 10. whether they are red, black, white, wheat; air forces are never more than 135 directly from nike. They are closer to 90 from official resellers. I can get all four for the price of a single yeezy boost or foamposite.
 11. before I get different color ways other than the triple white air forces. I gotta be in the habit of taking care of them. maybe getting them in my size will help with the creasing. I gotta be in the habit of cleaning them and learn how to clean them. I heard for the white ones I can just toss them in the wash, so I gotta get a shoe rack. i can get one of the shoe things stuff in there to keep the shape. I can also get a hydrophopic spray and research which ones for tripple white  air forces. 
-12. I heard jordans are harder to maintain than the dunks.
+12. I heard jordans are harder to maintain than the air forces.
 13. dunks are popular but they dont have the heritage or the additional height that interests me.
 14. for drippy running shoes yeezy boosts "350 v2", for drippy slides yeezy slides, for drippy croc like shoes yeezy foam runners.
-15. but first before dropping money on shoes i should use it make sure my care bumper is fixed so it looks good new clean y no de pobres.
+15. but first before dropping money on shoes i should use it make sure my car bumper is fixed so it looks good new clean y no de pobres.
 16. and also I should be investing in my dj gear like a pioneer contoller, pioneer head phones, pioneer monitors  for the pioneer contoller. PA speakers.
 17. dual boot linux laptop for serato lite on windows, linux audio production - house music.
 18. nice beginners men watch.
 19. shorter thicker chain.
 20. If I need a new car: cheapest option infinity g37 sub 20k to acura integra type s 65k.
+21. get tints on your audi.
+22. get your car detailed on the regular maybe up to once a month ~$30.
+23. go to your neighborhood barber once to twice a month.
+24. focus on aesthetics in the gym. work 12-3-30 twice a day and abs every day. planks all day.
+25. get really tan.
