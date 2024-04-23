@@ -60,3 +60,14 @@ I want to be drippy.
 23. go to your neighborhood barber once to twice a month.
 24. focus on aesthetics in the gym. work 12-3-30 twice a day and abs every day. planks all day.
 25. get really tan.
+
+---
+masculine focuses to divert away from lust
+
+1. Money - HU, crypto, sell - sec, freelance web dev, DJing, driving, gym
+2. Drip - shoes - nike - air force 1s, yeezys, jordans
+3. Cars - subaru wrx sti, porsche boxter, porsche 911
+4. Christ
+5. Violence - UFC, MMA, Boxing, training, guns, knives for combat.
+6. Career - DJing, web dev, linux, sec.
+7. gym - aesthetics, strength
