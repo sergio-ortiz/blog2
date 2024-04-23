@@ -60,6 +60,7 @@ I want to be drippy.
 23. go to your neighborhood barber once to twice a month.
 24. focus on aesthetics in the gym. work 12-3-30 twice a day and abs every day. planks all day.
 25. get really tan.
+26. invest in lint roller and dry cleaning bags for jackets.
 
 ---
 masculine focuses to divert away from lust
