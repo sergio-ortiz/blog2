@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### Tuesday 4/23/2024 - we are 2/3rds through.
+### Wednesday 4/24/2024 - Happy Birthday Dad!
 from now till the end of the month you have to make your remote work worth while,
 meaning I have to make my efforts in modernizing bioethx.org recognized and desired.
 My hopes are that this will aid in my physical abscence from the office while im doing something for my dj career miami for a week.
@@ -14,7 +14,7 @@ Also, I love J Balvin! 🇨🇴
 1. [ ] listen to new future
 2. [ ] build location tracking app w/ astro + Pico CSS
 3. [ ] get new screen protector w/ nick
-4. [ ] change pin
+4. [ ] Call Daniel and congratulate him on being a father
 5. [ ] Migrate Next.js sites to astro
 6. [ ] listen to tainy - data
 7. [ ] set up contactless pay on android
@@ -37,3 +37,4 @@ Also, I love J Balvin! 🇨🇴
 9. [x] ~~post to insta~~
 10. [x] ~~business meeting check in w/ details for saturday~~
 11. [x] ~~apply to wheaton planet fitness via Mauricio~~
+12. [x] ~~change pin~~
