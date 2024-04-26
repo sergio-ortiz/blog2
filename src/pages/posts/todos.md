@@ -14,7 +14,7 @@ Also, I love J Balvin! 🇨🇴
 1. [ ] listen to new future
 2. [ ] build location tracking app w/ astro + Pico CSS
 3. [ ] get new screen protector w/ nick
-4. [ ] Call Daniel and congratulate him on being a father
+4. [ ] schedule an appointment with your barber for May 1st.
 5. [ ] Migrate Next.js sites to astro
 6. [ ] listen to tainy - data
 7. [ ] set up contactless pay on android
@@ -38,3 +38,4 @@ Also, I love J Balvin! 🇨🇴
 10. [x] ~~business meeting check in w/ details for saturday~~
 11. [x] ~~apply to wheaton planet fitness via Mauricio~~
 12. [x] ~~change pin~~
+13. [x] ~~Call Daniel and congratulate him on being a father~~

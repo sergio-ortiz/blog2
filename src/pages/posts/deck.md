@@ -2,6 +2,27 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
+# miami
+1. Trap classics - flocka, chief kief, fetty, kendrick, weeknd, hucci, etc.
+2. Travis Scott
+3. Future
+4. Bad Bunny - trap "Monaco"
+5. Latin trap classics
+6. J Balvin - post Jose, underated, trap, bad bunny, Jose
+7. Nicky Jam
+8. Bad bunny < Verano Sin ti
+9. Ozuna, Anuel
+10. Rauw Alejandro
+11. Bad bunny - Verano sin ti
+12. Feid, Karol G, Maluma, Manuel Turizo, Sebastian Yatra
+13. Latin Tech House/afrobeats - Hugel, Fallon, DNA, Kowski
+14. Moombahton/Twerk
+15. udm - Mora, bzrp, tiesto, David Guetta
+16. Fred Again.., Skrillex, peekaboo "dance"
+17. Dance/house - GTA, Dillon Francis, Duke & Jones
+18. Pickle
+19. techno - gatitomiau
+
 # refined
 1. salsa 🇨🇴
 2. cumbia 🇨🇴
