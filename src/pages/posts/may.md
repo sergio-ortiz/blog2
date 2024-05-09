@@ -2,11 +2,11 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### April
+### May
 
 #### Hacker todos
 
-1. Learn Github Project Management and apply to all projects and apply to agile/scrum
+1. Learn Github Project Management and apply 'agile' to all projects
 2. Migrate Next.js sites to astro and, build websites w/ astro and DaisyUI
 3. Setup and use password Manager "KeyPassXC" refer to dnmb and research OpSec w/ gpg: sign and verify, pgp email and Password Managers
 4. tails 6, lmde 6, kali linux, debian 12 server
@@ -20,3 +20,4 @@ layout: "../../layouts/PostLayout.astro"
 4. Fill out I-9
 5. move mortgage back
 6. listen to new rauw
+7. listen to tainy's data

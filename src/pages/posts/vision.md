@@ -20,16 +20,22 @@ For me the leader in the space is hugel. Now hugel along with other djs that hav
 Carlos Vives, Colombian national treasure vallenato pop star has recently collaborated on an official latin house version of fruta fresca. it's quite good actually.
 
 #### Exhibit C
-Feid, the new man carrying the reggaeton scene in Colombian forward, that in my experience djing has been requested just as much as bad bunny as of late. Feid has officially released two latin house tracks "not remixes". They are both really good actually.
+Feid, the new man carrying the reggaeton scene in Colombia forward, that in my experience djing has been requested just as much as bad bunny as of late. Feid has officially released two latin house tracks "not remixes". They are both really good actually.
 
 #### Exhibit D
-Shakira's latest 2024 album has had a lot of dance beats but one in my book one track is fully latin house and the production is a collaborative effort between Bizzarap and Tiësto. the song is actually really good.
+Shakira's latest 2024 album has had a lot of dance beats but one track in my book is fully latin house and the production is a collaborative effort between Bizzarap and Tiësto. the song is actually really good.
 
 #### Exhibit E
 skrillex back in 2015 2016 said that marshmello was the new face of edm and brought him on. This held true, marshmello has even produced a whole album featuring spanish artists only. I have a playlist featuring more than 20 marshmello latin songs. five years later skrillex has been bringing the indutry more traditional dance and house rythms and hes done it again this time and introduced the new leader in the electronic dance music space and brought in Fred Again.., and so far its been true. 
 It's been a while since the prince of reggaeton has released an album due to covid, the major pimp slap bad bunny gave the industry in 2022, and him having a baby. the boy from medellin will release a new colab album this year w/ Ed sheeran hopefully for the summer to pair with the release his new jordans the Rio 3s but I digress.
 It is produced by Fred Again..
 Fred Again's sound is very beautiful paying homage to the love of 90s house and synths of classical trance and bringing in trap artists on the vocals.
+
+### Exhibit F
+afrobeats
+
+### Exhibit G
+tuci music, guaracha
 
 ---
 
@@ -54,7 +60,7 @@ I want to be drippy.
 17. dual boot linux laptop for serato lite on windows, linux audio production - house music.
 18. nice beginners men watch.
 19. shorter thicker chain.
-20. If I need a new car: cheapest option infinity g37 sub 20k to acura integra type s 65k.
+20. If I need a new car: cheapest option used wrx 'sti' sub 20k to 20k+ kia k5 to 30k+ audi a3
 21. get tints on your audi.
 22. get your car detailed on the regular maybe up to once a month ~$30.
 23. go to your neighborhood barber once to twice a month.
@@ -72,3 +78,18 @@ masculine focuses to divert away from lust
 5. Violence - UFC, MMA, Boxing, training, guns, knives for combat.
 6. Career - DJing, web dev, linux, sec.
 7. gym - aesthetics, strength
+
+---
+
+things I want
+
+1. great adventure bible
+2. bible in a year reading plan
+3. great adventure timeline
+4. rosary
+5. jesus piece
+6. dual boot windows install serato lite.
+7. pioneer flx 400 + pioneer monitors
+8. throw away clothes 'donate' research 'archdioces'
+9. 12-3-30 twice a day
+10. planks w/ pomodoro
