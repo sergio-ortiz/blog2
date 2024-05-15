@@ -2,7 +2,7 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### Tuesday 5/14/2024 - half way through figuring how to change where I am
+### Tuesday 5/15/2024 - first, figure out where you are
 
 1. [ ] build location tracking app w/ astro + Pico CSS
 2. [ ] Migrate Next.js sites to astro
@@ -12,8 +12,10 @@ layout: "../../layouts/PostLayout.astro"
 6. [ ] learn project management on github
 7. [ ] learn testing mocha and chai, vitest, bun:test, node assert
 8. [ ] set up serato on fake macbook for djing this weekend at big name's in local hiphop space dmv
+9. [ ]  make sure i have gig this sunday at jeremy sprite's bday
+10. [ ] npx astro add db, create user table, fetch(signIn.json) ? "access granted" : "user not found"
 
-I want to say that my application development architecture has gone and will probably continue down something like this:
+I want to say that my application development architecture has gone and will probably continue to go something like this:
 
 1. html, css, js + node + heroku + mongo
 2. Next.js + prisma "heroku postgres" + css modules + netlify
