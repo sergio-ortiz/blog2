@@ -2,14 +2,17 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-I want a normal music library, I justify not having one with being broke, I have to pay for soundcloud to be able to spin my cool tracks easily on demand, I could switch over to tidal and just invest in couple usbs to rip myextensive soundcloud which will be a bore btw. But I could start fresh. the board can use tidal as well which is more of a normal music library. I just dont want my library for listening to be mixed with my tracks for spinning. its fine if just spinning tracks from my listening library, but the truth is for spinning its more like weapons instead of a listening library, like i cant hit them with something from the salsa or merengue or reggaeton or bachata or house or twerk or 2000s stockpiles. So to me they are very different in nature. I would hate to hit shuffle on all my ammo stockpiles when they are intended to be used tactically not for sitting back and letting it play aka a playlist is much more suited for the job. and I dont want to clutter one library with the other. I know that there are more dj specific library's i forgot what they where called maybe something like record drop boxes or repositories or what not but they are more for on demand music for spinning. I will research this since I should get serious. in the meantime i could just checkout tidal. More often for popular music, which I listen to im  part of the populous, is incomplete, clean, unofficial, disorganized, missing, ugly, etc. on soundcloud. I had simililar issues on other platforms but not to this extent specifically with popular music. I have a vision of my dream library of just staples of albums the classics hip-hop and rock I can just hit shuffle and it would be beautiful, we got kanye, eminem, kid cudi, dr. dre, snoop dogg, tyler the creator, frank ocean, the weeknd, drake, gorrilaz, mgmt, tame impala, sublime, nirvana, j dilla, nujabes, system of a down, pink floyd, the beatles. I just goy my 30 day free trial plus another 30 days for 2 dollars so we got 2 months to decide whether i stick with tidal or go to spotify or full pirate, in the meantime i have 2 months to migrate my dj stockpiles of ammo from soundcloud to one of those official dj repo's i mentioned earlier. right now im compiling Kanye. it will go well with my return to Christ. Next I want to compile j dilla and nujabes, cowboy bebop and samurai champloo, and kill bill, 90s death row records hiphop gangsta rap vibes, tupac and biggie, hucci. Im excited to move away from soundcloud and to a more profesional dj platform, ah they are called record pools, i just searched it up. I will migrate away from engineOS to laptop with Serato 'club standard', and from soundcloud to record pools, and then from numark all in one to pioneer and monitors with laptop. and the last thing ill upgrade are to pioneer headphones. we will see if the numark can handle the laptop w/ serato via usb. if not we will have to get the board before the record pools. in that case we will get serato and pioneer board and monitor setup in one foul swoop. the other reason I want tidal is beacuase when people make requests its never some undrground edm or remix its always known stuff and I want it available which more often than not is something left to be desired on soundcloud. Id like to live in florida and dj at club space and hella house parties.
+#### I want to say that im going to research using htmx in astro, if its feasible cool if not we will just move on to migrating sites from Next to Astro nd then from CSS to Tailwind w/ taking a tailwind course in between.
 
-Now I wanna talk about software:
-I feel like for http apps I went from:
-- html, css, js, and node ->
-- Next.js and prisma ->
-- php & mysql and Bootstrap & Sass ->
-- SvelteKit and Vercel Postgres and DaisyUI ->
-- Astro + libsql + drizzle + Pico CSS... which is where i am now but i will go to ->
-- bun + hono + sqlite + docker + Pico CSS + htmx... end probably end up on ->
-- go + htmx + pico + turso
+---
+
+I want to say that my application development architecture has gone and will probably continue to go something like this:
+
+1. html, css, js + node + heroku + mongo
+2. Next.js + prisma "heroku postgres" + css modules + netlify
+3. php&mysql + Bootstrap&Sass + lamp
+4. SvelteKit + vercel postgres "neon" + DaisyUI + vercel
+5. Astro + PicoCSS + libsql + drizzle
+---
+6. Bun + Hono + htmx + PicoCSS + sqlite + docker
+7. Go + PicoCSS + turso
