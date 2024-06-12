@@ -5,7 +5,7 @@ layout: "../../layouts/PostLayout.astro"
 ### Wednesday 6/12/2024 - Dreamcore
 
 1. [ ] learn go lang "server & templates"
-    - Learn Go fast "1 hour": Full tutorial - youtube 5/11 chapters
+    - Learn Go fast "1 hour": Full tutorial - youtube on 7/11 chapters
     - Go tour
     - Go by Example
     - Effective Go
