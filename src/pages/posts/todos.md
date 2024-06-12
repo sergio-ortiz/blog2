@@ -2,15 +2,18 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### Thursday 6/5/2024 - paying my bills, getting paid
+### Wednesday 6/12/2024 - Dreamcore
 
-1. [ ] set up contactless pay on android
-2. [ ] learn Stripe "fireship.io"
-3. [ ] build out layout for bioethxcafe astro w/ tailwind + DaisyUI then populate with content, functionality refer to eventbrite and zoom, if need be astro db + auth.
-4. [ ] learn Tailwind and then migrate from CSS w/ DaisyUI
-5. [ ] migrate content to markdown and specific rendering handled by layouts.
-6. [ ] learn go lang, server, templates
-7. [ ] learn go + htmx
+1. [ ] learn go lang "server & templates"
+    - Learn Go fast "1 hour": Full tutorial - youtube 5/11 chapters
+    - Go tour
+    - Go by Example
+    - Effective Go
+    - Go + htmx primagen frontend masters
+    - go books
+2. [ ] Zen tmux config + learn tmux "NetworkChuck"
+3. [ ] learn go + htmx
+4. [ ] tailwind course
 
 
 #### June [todos](/posts/june)
