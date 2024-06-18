@@ -2,17 +2,11 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
-### Wednesday 6/12/2024 - Dreamcore
+### Wednesday 6/18/2024 - Dreamcore
 
-1. [ ] learn go lang "server & templates"
-    - Learn Go fast "1 hour": Full tutorial - youtube on 7/11 chapters
-    - Go tour
-    - Go by Example
-    - Effective Go
-    - Go + htmx primagen frontend masters
-    - go books
+1. [ ] [learn go](/posts/go) lang "server & templates"
 2. [ ] Zen tmux config + learn tmux "NetworkChuck"
-3. [ ] learn go + htmx
+3. [ ] build go + htmx projects
 4. [ ] tailwind course
 
 

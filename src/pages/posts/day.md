@@ -25,4 +25,4 @@ now for web site development my stack is Astro for the web framework, markdown f
 3. migrate in astro pages from css modules to style blocks and global css for markdown layouts
 4. migrate the rest of the react components to astro unless u need that levely of declarative reactivity and state along with the respective css modules to style blocks
 5. Migrate Content to markdown with specific rendering handled by layouts.
-6. Migrate from css to tailwind + DaisyUI or ShadCN.
+6. Migrate from style block to tailwind
