@@ -2,6 +2,17 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 
+# urbana
+1. Country Trap
+2. Hip-Hop Trap
+3. Latin Trap
+4. Mateo Ferro
+5. Country edm
+6. latin edm 
+7. hip-hop edm
+---
+- Extras: Diplo, Skrillex Fred Again..
+
 # miami
 1. Trap classics - flocka, chief kief, fetty, kendrick, weeknd, hucci, etc.
 2. Travis Scott
