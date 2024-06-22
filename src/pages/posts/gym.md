@@ -1,3 +1,6 @@
+---
+layout: "../../layouts/PostLayout.astro"
+---
 # Push
 
 - 185 incline barbel
