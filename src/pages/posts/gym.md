@@ -9,3 +9,4 @@ layout: "../../layouts/PostLayout.astro"
 - 45 shoulder press 12x3
 - face pulls 35 12x3
 - side lat raises 15 10x3
+- tricep Push down (ego lift) 80 10x3
