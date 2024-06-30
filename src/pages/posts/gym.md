@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 ---
 # Push
 
-- 185 incline barbel
+- 185 incline barbel 7, 6, 8
 - 12x3 dips
 - incline dumbels 12,10, 9
 - 45 shoulder press 12x3
