@@ -2,7 +2,6 @@
 layout: "../../layouts/PostLayout.astro"
 ---
 # Push
-
 - 185 incline barbel 7, 6, 8
 - 12x3 dips +10 
 - incline dumbels 70lb 12,10, 9
@@ -12,3 +11,9 @@ layout: "../../layouts/PostLayout.astro"
 - tricep Push down (ego lift) 87.5 10x3
 - one arm push down 25lb 8x3
 - 12 3 30
+
+# Legs
+- 10 min bike level 5 warm up
+- 45lb calf raises 12x3
+- 45lb leg extensions
+
