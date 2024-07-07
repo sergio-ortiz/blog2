@@ -15,5 +15,7 @@ layout: "../../layouts/PostLayout.astro"
 # Legs
 - 10 min bike level 5 warm up
 - 45lb calf raises 12x3
-- 45lb leg extensions
+- 45kg leg extensions
+- 25kg leg curl 12x3
+- hack squat 2 plates
 
