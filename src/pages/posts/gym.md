@@ -18,4 +18,5 @@ layout: "../../layouts/PostLayout.astro"
 - 45kg leg extensions 12x3
 - 25kg leg curl 12x3
 - hack squat warm up to 2 plates
+- hip abduction 130lbs
 
